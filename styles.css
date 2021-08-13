@@ -1,0 +1,85 @@
+h1{
+  font-family:monospace;
+  font-weight: 300;
+  font-size: 4rem;
+  line-height: 1;
+}
+
+h2{
+  font-family:fantasy;
+  font-weight: bold;
+  font-size: 4rem;
+  line-height: 1;
+}
+h3{
+  font-weight: bold;
+}
+p{
+  color:#8B4513;
+}
+#title{
+  background-color: AntiqueWhite;
+  color:darkblue;
+}
+.container-fluid{
+  padding:7% 15%;
+}
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding:0 20px;
+}
+.navbar{
+  padding-bottom: 0 0 3rem 0;
+}
+.download-btn{
+  margin:5% 5% 5% 5%;
+}
+.title-img{
+  width:70%;
+  transform:rotate(25deg);
+  margin-left: 40px;
+}
+#features{
+  padding:7% 15%;
+  text-align: center;
+}
+
+.feature-box{
+  padding:5%;
+}
+
+.icon{
+  margin-bottom: 2rem;
+  color:#ef8172;
+}
+.icon:hover{
+  color:AntiqueWhite;
+}
+
+#testimonials{
+  padding:7% 15%;
+  text-align:center;
+  background-color: #ef8172;
+  color:#fff;
+}
+
+
+.testimonial-img{
+  width:30%;
+  border-radius: 100%;
+  margin:20px;
+}
+#press{
+  background-color: #ef8172;
+  text-align:center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width:20%;
+  margin:20px 20px 50px;
+}
